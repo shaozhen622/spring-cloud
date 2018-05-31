@@ -1,4 +1,4 @@
-package com.didispace.filter.post
+package com.fasthink.filter.post
 
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory

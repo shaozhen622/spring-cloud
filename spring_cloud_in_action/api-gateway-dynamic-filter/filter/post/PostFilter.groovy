@@ -1,4 +1,4 @@
-package com.didispace.filter.post
+package com.fasthink.filter.post
 
 import com.netflix.zuul.ZuulFilter
 import com.netflix.zuul.context.RequestContext
